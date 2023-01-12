@@ -57,7 +57,7 @@
         <a href="https://docs.google.com/presentation/d/1EFwWAzycp1Sb7gQHnXtLDgilNaamIKW8CBwhwRxCMsc/edit#slide=id.g108f9f34ebd_0_0"><li>Taller: Historia de vida y habilidades transferibles.</li>
         </li>
         <li>
-          <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0">
+          <a href="https://docs.google.com/presentation/d/1CnDBrlPV5jm8pOdudiKo5cjdfRXEYeLs1wsWghJ81Uo/edit#slide=id.g10f517c8353_0_0">
             Píldora: About me y pitch.
           </a>
         </li>
