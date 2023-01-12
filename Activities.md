@@ -54,12 +54,7 @@
     <td>
       <ul>
         <a href="https://docs.google.com/presentation/d/1mZHXWp4tZOFG33J4NqI0rTt6L6kiQo5eFW6v_KQqvuw/edit#slide=id.g10daaaee466_0_36"><li>Pre work del taller (slide 2 de la PPT del taller).</li>
-        <li>
-          <a href="">
-            Taller: Historia de vida y habilidades transferibles.
-          </a>
-          <a href="https://docs.google.com/presentation/d/1mZHXWp4tZOFG33J4NqI0rTt6L6kiQo5eFW6v_KQqvuw/edit#slide=id.g10daaaee466_0_36">
-          </a>
+        <a href="https://docs.google.com/presentation/d/1EFwWAzycp1Sb7gQHnXtLDgilNaamIKW8CBwhwRxCMsc/edit#slide=id.g108f9f34ebd_0_0"><li>Taller: Historia de vida y habilidades transferibles.</li>
         </li>
         <li>
           <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0">
