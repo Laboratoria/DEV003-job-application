@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td><center>Semana 30/01</center></td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>31/01</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -68,7 +68,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 6 al 20/02</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -119,7 +119,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 20/02</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -151,7 +151,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 20/02</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -174,7 +174,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">Semana del 27/02</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -226,7 +226,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 6/03</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -245,7 +245,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 6/03</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
