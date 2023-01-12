@@ -53,7 +53,7 @@
     </td>
     <td>
       <ul>
-        <li>Pre work del taller (slide 2 de la PPT del taller).</li>
+        <a href="https://docs.google.com/presentation/d/1mZHXWp4tZOFG33J4NqI0rTt6L6kiQo5eFW6v_KQqvuw/edit#slide=id.g10daaaee466_0_36"><li>Pre work del taller (slide 2 de la PPT del taller).</li>
         <li>
           <a href="">
             Taller: Historia de vida y habilidades transferibles.
