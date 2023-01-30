@@ -68,7 +68,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Del 6 al 20/02</td>
+    <td>Del 6 al 24/02</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
