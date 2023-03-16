@@ -322,7 +322,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td>16 y 23 de marzo</td>
+    <td>16 y 30 de marzo</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -375,7 +375,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>27 de marzo</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -399,7 +399,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 10 al 21 de abril</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
