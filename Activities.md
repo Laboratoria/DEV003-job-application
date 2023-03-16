@@ -322,7 +322,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>16 y 23 de marzo</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -342,7 +342,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 13 al 24 de marzo</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
